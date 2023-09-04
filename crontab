@@ -1,0 +1,1 @@
+0 */8 * * * /usr/local/bin/pullio  # Pulls every 8 hours
